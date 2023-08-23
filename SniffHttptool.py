@@ -4,7 +4,7 @@ from scapy.all import sniff, IP # scapy kütüphanesinin alt modülü olan sniff
 import argparse #argparse modülünü getirir argparse( kullanıcının girdilerini analiz eder)
 import threading #threading aynı anda birden fazla işi yapmamızı sağlayan modüldür
 from tkinter import filedialog #filedialog dosya seçme ile igili işlemler için kullanılır
-
+hadi canım
 class Application: #application adında bir sınıf oluşturduk
     def __init__(self, root): # init metodu bir sınıfın özelliklerinin başlatılması ve örnek verilerinin atanması için kullanılır
                               # self(sınıfın içinde tanımlı olan özellikleri belirtir)
